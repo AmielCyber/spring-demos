@@ -11,3 +11,16 @@ spring-demo-one/spring-demo-one.iml
 spring-demo-one/target/classes/applicationContext.xml
 spring-demo-one/.idea
 spring-demo-one/target
+spring-demo-annotations/.idea/compiler.xml
+spring-demo-annotations/.idea/encodings.xml
+spring-demo-annotations/.idea/jarRepositories.xml
+spring-demo-annotations/.idea/libraries/springframework_spring_context.xml
+spring-demo-annotations/.idea/misc.xml
+spring-demo-annotations/.idea/vcs.xml
+spring-demo-annotations/spring-demo-annotations.iml
+spring-demo-annotations/target/classes/applicationContext.xml
+spring-demo-annotations/target/classes/com/luv2code/springdemo/AnnotationDemoApp.class
+spring-demo-annotations/target/classes/com/luv2code/springdemo/Coach.class
+spring-demo-annotations/target/classes/com/luv2code/springdemo/MyLoggerConfig.class
+spring-demo-annotations/target/classes/com/luv2code/springdemo/TennisCoach.class
+spring-demo-annotations/target/classes/com/luv2code/springdemo/WeightLiftingCoach.class
