@@ -24,3 +24,7 @@ spring-demo-annotations/target/classes/com/luv2code/springdemo/Coach.class
 spring-demo-annotations/target/classes/com/luv2code/springdemo/MyLoggerConfig.class
 spring-demo-annotations/target/classes/com/luv2code/springdemo/TennisCoach.class
 spring-demo-annotations/target/classes/com/luv2code/springdemo/WeightLiftingCoach.class
+spring-demo-annotations/target/classes/fortune.properties
+spring-demo-annotations/target/
+spring-demo-annotations/.idea/
+

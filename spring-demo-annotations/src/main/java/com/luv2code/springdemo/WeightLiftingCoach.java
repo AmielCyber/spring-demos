@@ -8,4 +8,9 @@ public class WeightLiftingCoach implements Coach{
     public String getDailyWorkout() {
         return "One more rep bro.";
     }
+
+    @Override
+    public String getDailyFortune() {
+        return null;
+    }
 }
