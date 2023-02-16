@@ -1,5 +1,7 @@
 package com.luv2code.springdemo;
 
+import jakarta.annotation.PostConstruct;
+import jakarta.annotation.PreDestroy;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
@@ -13,6 +15,14 @@ public class FileFortuneService implements FortuneService{
     public FileFortuneService(@Value("${file.fortune}") String[] fortuneArr){
         this.fortuneArr = fortuneArr;
         this.myRandom = new Random();
+    }
+    @PostConstruct
+    public static void doMyStartupStuff(){
+        System.out.println("FileFortune: inside of doMyStartupStuff");
+    }
+    @PreDestroy
+    public static void doMyCleanupStuff(){
+        System.out.println("FileFortune: inside of doMyCleanupStuff");
     }
     @Override
     public String getFortune() {
