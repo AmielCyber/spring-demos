@@ -28,3 +28,11 @@ spring-demo-annotations/target/classes/fortune.properties
 spring-demo-annotations/target/
 spring-demo-annotations/.idea/
 
+/build/
+/.metadata/
+
+mvnw
+mvnw.cmd
+**/.mvn
+
+
