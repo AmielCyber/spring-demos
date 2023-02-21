@@ -41,3 +41,4 @@ spring-boot-hibernate-cruddemo/src/test/java/com/amielcyber/springboot/cruddemo/
 spring-boot-jpa-cruddemo/src/test/java/com/amielcyber/springboot/cruddemo/CruddemoApplicationTests.java
 spring-boot-datarest-cruddemo/src/test/java/com/amielcyber/springboot/cruddemo/CruddemoApplicationTests.java
 thymeleafHelloWorldDemo/src/main/resources/application.properties
+spring-boot-thymeleaf-demo/src/main/resources/application.properties
