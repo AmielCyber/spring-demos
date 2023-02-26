@@ -44,3 +44,7 @@ thymeleafHelloWorldDemo/src/main/resources/application.properties
 spring-boot-thymeleaf-demo/src/main/resources/application.properties
 
 **/target
+spring-mvc/.idea/modules.xml
+spring-mvc/.idea/spring-mvc.iml
+spring-mvc/.idea/vcs.xml
+spring-mvc/.idea/workspace.xml
