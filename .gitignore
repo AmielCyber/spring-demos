@@ -60,3 +60,4 @@ springcore/gradlew.bat
 springcore/settings.gradle
 springcore/gradle/wrapper/gradle-wrapper.jar
 *.jar
+springcore/gradle/wrapper/gradle-wrapper.jar
